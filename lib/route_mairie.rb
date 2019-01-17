@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
+require 'rspec'
 
 def get_townhall_names
 	townhall_names = []
