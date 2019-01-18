@@ -6,3 +6,7 @@ Vous y trouverez trois exos, basés sur 3 scrapping différents:
 - et enfin un exo repertoriant les coordonnées de tous les députés de France
 
 Bonne découverte !
+
+-----
+
+By Noé Margui @Noé Marguillard & Nicolas Zwiller @Nico
